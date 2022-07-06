@@ -1,3 +1,7 @@
+[*] 2022-07-06 add tomcat-memshell-scanner jspx
+
+<img width="1771" alt="image" src="https://user-images.githubusercontent.com/16593068/177464901-6fc57fc5-bb15-46c6-bc26-dce038512d21.png">
+
 ## 0x01 简介
 通过jsp脚本扫描并查杀各类中间件内存马，比Java agent要温和一些。
 
